@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+
+*.log
+*.tmp
+*.user
+*.suo
+*.dll
+*.exe
